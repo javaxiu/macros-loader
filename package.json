@@ -1,5 +1,5 @@
 {
-  "name": "@ali/macros-loader",
+  "name": "macros-loader",
   "version": "0.0.1",
   "description": "macros-loader",
   "main": "index.js",

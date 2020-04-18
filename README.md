@@ -28,7 +28,7 @@ fork from git+https://github.com/jdmichaud/preprocessor-loader.git
     {
       "declaration" : "LOG_INFO(message)",
       "definition" : "console.log(message + ' (__FILE__:__LINE__)');",
-      "REG": "/(src:?)(.*)/"
+      "reg": "(?=src/)(.*)"
     },
 ]
 ```
