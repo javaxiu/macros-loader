@@ -1,0 +1,26 @@
+{
+  "name": "@ali/macros-loader",
+  "version": "0.0.1",
+  "description": "macros-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaxiu/macros-loader.git"
+  },
+  "keywords": [
+    "macros",
+    "webpack-loader"
+  ],
+  "author": "javaer.ljw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaxiu/macros-loader/issues"
+  },
+  "homepage": "https://github.com/javaxiu/macros-loader#readme",
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  }
+}
