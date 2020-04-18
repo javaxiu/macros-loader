@@ -3,7 +3,7 @@
 fork from git+https://github.com/jdmichaud/preprocessor-loader.git
 
 # why
-'cause author stop maintaining this project, and [my issue](https://github.com/jdmichaud/preprocessor-loader/issues/1) was left to open for a while
+'cause author stop maintaining [this project](https://github.com/jdmichaud/preprocessor-loader), and [my issue](https://github.com/jdmichaud/preprocessor-loader/issues/1) was left to open for a while
 
 # use
 
