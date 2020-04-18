@@ -8,7 +8,7 @@ fork from git+https://github.com/jdmichaud/preprocessor-loader.git
 # use
 
 // webpack.config.js
-
+``` js
 {
   module: {
     loaders: [
@@ -19,9 +19,11 @@ fork from git+https://github.com/jdmichaud/preprocessor-loader.git
     ],
   }
 }
+```
 
 // pprocessor-loader.json
 
+``` json
 "macros": [
     {
       "declaration" : "LOG_INFO(message)",
@@ -29,3 +31,4 @@ fork from git+https://github.com/jdmichaud/preprocessor-loader.git
       "REG": "/(src:?)(.*)/"
     },
 ]
+```
